@@ -6,7 +6,7 @@ When the user opens the application, the screen visible to the user is-
 ![Screenshot_20210705-190804](https://user-images.githubusercontent.com/64889275/124481325-c9de0a80-ddc5-11eb-961c-afcc62cd790b.png)
 
 
-When the user clicks on 3-dot menu in the right-top corner of the screen, then a menu appears that contains a Submenu of name File and 2 menu items-
+When the user clicks on 3-dot menu in the right-top corner of the screen, then a menu appears that contains a Submenu of name File and two menu items(Coding and Programming)-
 
 ![Screenshot_20210705-190808](https://user-images.githubusercontent.com/64889275/124481517-fe51c680-ddc5-11eb-98bd-e6ec75678062.png)
 
